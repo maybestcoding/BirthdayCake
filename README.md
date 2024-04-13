@@ -1,2 +1,2 @@
 # BirthdayCake
-![](https://github.com/maybestcoding/BirthdayCake/blob/main/catanbirthdaycake.png?raw=true)
+![](https://github.com/maybestcoding/BirthdayCake/blob/main/catancake.png?raw=true)
